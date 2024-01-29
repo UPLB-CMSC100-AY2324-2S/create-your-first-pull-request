@@ -1,4 +1,4 @@
-#Exercise 01: Git
+# Exercise 01: Git
 
 Title: Create your first Pull Request
 Type: Individual Assessment
